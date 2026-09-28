@@ -1,5 +1,5 @@
 # My GitHub page!
-![Picture of BSU's logo.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.boisestate.edu/wp-content/uploads/sites/150/2019/06/BroncoMark.png))
+![Picture of BSU's logo.](https://www.boisestate.edu/wp-content/uploads/sites/150/2019/06/BroncoMark.png)<br>
 Hello, I am Juan, a Computer Science student at BSU and this is my page for my CS155 course.
 
 I will go through some of my interests and then what I thought of the Version Control Course.
